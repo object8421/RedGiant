@@ -1,2 +1,0 @@
-# RedGiant.github.io
-Blog
