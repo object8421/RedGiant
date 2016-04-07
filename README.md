@@ -1,2 +1,2 @@
-# red_giant.github.io
+# RedGiant.github.io
 Blog
