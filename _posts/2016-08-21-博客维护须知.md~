@@ -8,6 +8,7 @@ title: 博客维护须知
     添加文件
 
         git add filename.md
+        git add -A .
 
     删除文件
 
