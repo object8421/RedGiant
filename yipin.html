@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Object8421's 首页
+title: 逸品劝败
+group: navigation
 ---
 <section class="content">
 	<div class="content-cnt fn-clear">
+        <pre>Note: 发现有趣好玩的东西，比如智能硬件，物联网，互联网产品，写下自己的测评或者分析之类的</pre>
 		<div class="main fn-clear">
-			{% for rpost in paginator.posts %}
+			{% for  rpost in site.categories.yipin %}
             	<article class="main-excerpt fn-clear">
                     <h3 class="main-excerpt-title"><a href="{{ rpost.url }}" title="{{ rpost.title }}" rel="bookmark">{{ rpost.title }}</a></h3>
                     <p class="date"><time pubdate="{{ rpost.date }}">{{ rpost.date | date_to_string }}</time></p>
