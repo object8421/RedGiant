@@ -1,0 +1,17 @@
+---
+layout: post
+title: 知识索引-图片服务器
+categories: works
+---
+
+1. [独立图片服务器方案的一些总结](http://www.sunhaibing.com/?p=1502)
+
+2. [架构高性能海量图片服务器的技术要素](http://gad.qq.com/article/detail/7148540)
+
+3. [负载与读写分离图片服务器集群模型](http://www.codexiu.cn/linux/blog/12495/)
+
+4. [图片存储架构学习：独立的图片服务器，给爱一个独立的空间](https://my.oschina.net/aiguozhe/blog/100461)
+
+5. [小团队图片服务器规划漫谈](https://my.oschina.net/hierick/blog/136566)
+
+6. [大型网站图片服务器架构的演进](http://blog.csdn.net/dinglang_2009/article/details/31450731)
