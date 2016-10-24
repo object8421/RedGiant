@@ -3,6 +3,9 @@ layout: post
 title: 知识索引-Protobuf
 categories: works
 ---
+
+note:Protobuf整理自有道云笔记，便于阅读和查找。
+
 1. [ 理解netty对protocol buffers的编码解码 ](http://www.cnblogs.com/tankaixiong/p/5524483.html)
 
 2. [Protocol Buffers 语法指南](http://www.cnblogs.com/shitouer/archive/2013/04/12/protocol-buffers-language-guide.html)
