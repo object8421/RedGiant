@@ -1,2 +1,2 @@
-# RedGiant
-红色的巨人
+# object8421
+个人博客
